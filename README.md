@@ -40,7 +40,7 @@
      - `<li>`: Define um item dentro de listas (`<ul>` ou `<ol>`).
 
 5. **O que são atributos HTML? Cite três exemplos de atributos e explique sua função.**
-   - **R**: Atributos HTML são informações adicionais que fornecem mais detalhes sobre elementos. Três exemplos:
+   - **R**: Atributos HTML são informações adicionais que fornecem mais detalhes sobre elementos.
      - `href`: Usado em `<a>` para especificar a URL de destino do link.
      - `src`: Usado em `<img>` para indicar o caminho da imagem.
      - `alt`: Usado em `<img>` para descrever a imagem, útil para acessibilidade.
