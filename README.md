@@ -1,4 +1,5 @@
 # Atividade Teórica e Prática de HTML e CSS
+Link da página da atividade prática: https://devgigifa.github.io/filmes_preferidosBE/
 
 ## Objetivos
 - **Parte Teórica**: Revisar os conceitos básicos de HTML, suas principais tags e atributos.
